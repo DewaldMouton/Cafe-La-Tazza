@@ -1,0 +1,30 @@
+/*Main*/
+.no-padding{
+    padding: 0px !important;
+}
+
+.no-margin{
+    margin: 0px !important;
+}
+
+/*Main header*/
+#heading{
+    text-align: center;
+}
+
+#heading h1{
+    padding: 10px;
+    font-family: 'Playball', sans-serif;
+}
+
+/*navbar*/
+#main-nav li{
+    display: inline;
+    list-style-type: none;
+    font-family: 'Roboto', sans-serif;
+    /* color: #FFF; */
+    font-size: 18px;
+    font-weight: 600;
+    padding-left: 46px;
+    text-transform: uppercase;
+}
