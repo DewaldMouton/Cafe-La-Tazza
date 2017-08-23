@@ -18,13 +18,6 @@
 }
 
 /*navbar*/
-#main-nav li{
-    display: inline;
-    list-style-type: none;
-    font-family: 'Roboto', sans-serif;
-    /* color: #FFF; */
-    font-size: 18px;
-    font-weight: 600;
-    padding-left: 46px;
-    text-transform: uppercase;
+#navbar-list{
+    width: 100%;
 }
